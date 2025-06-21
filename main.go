@@ -9,6 +9,9 @@ func main() {
 	var n, n2 string
 
 	fmt.Println("Olá, Estou aprendendo uma linguagem nova! ")
+	fmt.Println("Olá, Estou aprendendo uma linguagem nova! ")
+	fmt.Println("Olá, Estou aprendendo uma linguagem nova! ")
+	fmt.Println("Olá, Estou aprendendo uma linguagem nova! ")
 
 	fmt.Println("Digite seu nome: ")
 	fmt.Scanln(&n, &n2)
